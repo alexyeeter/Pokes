@@ -2326,6 +2326,14 @@ const ROUTES = {
     , minLevel: 30
     , maxLevel: 30
     , unlocked: true
+	    , event3: {
+      name: 'Let\'s Go : Meltan'
+    , pokes: ['Magikarp'] 
+    , minLevel: 1
+    , maxLevel: 9999
+    , unlocked: true
+
+
     }
 }
 }
